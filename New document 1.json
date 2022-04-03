@@ -1,0 +1,28 @@
+{
+    "version": 13,
+    "structures": {
+        "rplacede_schriftzug": {
+            "priority": 3,
+            "pixels": [
+                {
+                    "x": 1999,
+                    "y": 999,
+                    "color": 4,
+                    "priority": 3
+                },
+                {
+                    "x": 578,
+                    "y": 854,
+                    "color": 29,
+                    "priority": 2
+                }
+            ]
+        }
+    },
+    "priorities": {
+        "0": 0,
+        "1": 1,
+        "2": 5,
+        "3": 10
+    }
+}
