@@ -1,0 +1,149 @@
+[{
+  "version": "1.0",
+  "image": {
+    "name": "/home/videosdownloader/public_html/image/public/uploadt/map-pack-no-SOT-red.png",
+    "baseName": "map-pack-no-SOT-red.png",
+    "format": "PNG",
+    "formatDescription": "PNG",
+    "mimeType": "image/png",
+    "class": "DirectClass",
+    "geometry": {
+      "width": 2000,
+      "height": 1000,
+      "x": 0,
+      "y": 0
+    },
+    "units": "Undefined",
+    "type": "PaletteAlpha",
+    "baseType": "Undefined",
+    "endianness": "Undefined",
+    "colorspace": "sRGB",
+    "depth": 8,
+    "baseDepth": 8,
+    "channelDepth": {
+      "alpha": 1,
+      "red": 8,
+      "green": 8,
+      "blue": 1
+    },
+    "pixels": 8000000,
+    "imageStatistics": {
+      "Overall": {
+        "min": 0,
+        "max": 255,
+        "mean": 0.952002,
+        "median": 0,
+        "standardDeviation": 3875.19,
+        "kurtosis": 266.645,
+        "skewness": 16.3293,
+        "entropy": 0.0200917
+      }
+    },
+    "channelStatistics": {
+      "alpha": {
+        "min": 0,
+        "max": 255,
+        "mean": 1.30675,
+        "median": 0,
+        "standardDeviation": 4679.33,
+        "kurtosis": 190.146,
+        "skewness": 13.8617,
+        "entropy": 0.0463632
+      },
+      "red": {
+        "min": 0,
+        "max": 255,
+        "mean": 1.09462,
+        "median": 0,
+        "standardDeviation": 4257.55,
+        "kurtosis": 227.869,
+        "skewness": 15.1407,
+        "entropy": 0.0134479
+      },
+      "green": {
+        "min": 0,
+        "max": 255,
+        "mean": 0.77646,
+        "median": 0,
+        "standardDeviation": 3356.39,
+        "kurtosis": 344.562,
+        "skewness": 18.327,
+        "entropy": 0.0126122
+      },
+      "blue": {
+        "min": 0,
+        "max": 255,
+        "mean": 0.630182,
+        "median": 0,
+        "standardDeviation": 3207.49,
+        "kurtosis": 401.714,
+        "skewness": 20.0387,
+        "entropy": 0.0079434
+      }
+    },
+    "alpha": "#00000000",
+    "renderingIntent": "Perceptual",
+    "gamma": 0.45455,
+    "chromaticity": {
+      "redPrimary": {
+        "x": 0.64,
+        "y": 0.33
+      },
+      "greenPrimary": {
+        "x": 0.3,
+        "y": 0.6
+      },
+      "bluePrimary": {
+        "x": 0.15,
+        "y": 0.06
+      },
+      "whitePrimary": {
+        "x": 0.3127,
+        "y": 0.329
+      }
+    },
+    "matteColor": "#BDBDBD",
+    "backgroundColor": "#FFFFFF",
+    "borderColor": "#DFDFDF",
+    "transparentColor": "#00000000",
+    "interlace": "None",
+    "intensity": "Undefined",
+    "compose": "Over",
+    "pageGeometry": {
+      "width": 2000,
+      "height": 1000,
+      "x": 0,
+      "y": 0
+    },
+    "dispose": "Undefined",
+    "iterations": 0,
+    "compression": "Zip",
+    "orientation": "Undefined",
+    "properties": {
+      "date:create": "2022-04-03T11:23:25+00:00",
+      "date:modify": "2022-04-03T11:23:25+00:00",
+      "png:bKGD": "chunk was found (see Background color, above)",
+      "png:cHRM": "chunk was found (see Chromaticity, above)",
+      "png:gAMA": "gamma=0.45455 (See Gamma, above)",
+      "png:IHDR.bit-depth-orig": "4",
+      "png:IHDR.bit_depth": "4",
+      "png:IHDR.color-type-orig": "3",
+      "png:IHDR.color_type": "3 (Indexed)",
+      "png:IHDR.interlace_method": "0 (Not interlaced)",
+      "png:IHDR.width,height": "2000, 1000",
+      "png:PLTE.number_colors": "16",
+      "png:sRGB": "intent=0 (Perceptual Intent)",
+      "png:text": "2 tEXt/zTXt/iTXt chunks were found",
+      "png:tIME": "2022-04-03T15:21:48Z",
+      "png:tRNS": "chunk was found",
+      "signature": "131a337293b9c5991843dd3fb7961a4a9d1eeb2afdcc21ad23e256efd9d42790"
+    },
+    "tainted": false,
+    "filesize": "3297B",
+    "numberPixels": "2000000",
+    "pixelsPerSecond": "9.94247MB",
+    "userTime": "0.230u",
+    "elapsedTime": "0:01.201",
+    "version": "ImageMagick 7.0.10-58 Q16 x86_64 2021-01-14 https://imagemagick.org"
+  }
+}]
